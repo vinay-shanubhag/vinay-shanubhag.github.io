@@ -1,0 +1,9 @@
+.our-skill-block > .container  .skill-thumbnail-area > .single-thumb > img {
+    max-width: 600px;
+}
+.site-header .header-navigation-right .con-info > div {
+    color: #333333;
+}
+.site-header .header-navigation-right .con-info > div.email {
+    font-size: 12px;
+}
